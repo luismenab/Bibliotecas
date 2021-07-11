@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"5422663";"";
+"REVISION";"A";"";
+"DESIGN";"TE Connectivity 0.6mm Pitch 200 Way, Right Angle SMT DDR1 DIMM Socket ,2.5 V";"";
+"TraceParts.InstanceId";"10-15062010-161802AT2H9E8W03UFKHWOBCBA3D91G";"";
+"TraceParts.PartTitle";"TE Connectivity 0.6mm Pitch 200 Way, Right Angle SMT DDR1 DIMM Socket ,2.5 V";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-15062010-161802";"";
+"REFERENCE";"1473005-1";"";
+"TIMESTAMP";"26/05/2017 11:59";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/F_RS_COMPONENTS/PSSS_435563/PSS_435623/PSF_435630/";"";

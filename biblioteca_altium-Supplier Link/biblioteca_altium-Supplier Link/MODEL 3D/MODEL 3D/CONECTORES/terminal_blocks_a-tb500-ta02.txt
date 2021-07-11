@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09072010-115101";"";
+"REFERENCE";"A-TB500-TA02";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TraceParts.InstanceId";"10-09072010-115101CSDT32EUR4O6IOK3BJJHQG6PD";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Terminal Blocks, wire protection, straight, alignable, pitch 5.00mm";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"DESIGN";"Terminal Blocks, wire protection, straight, alignable, pitch 5.00mm, No. of contacts: 2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

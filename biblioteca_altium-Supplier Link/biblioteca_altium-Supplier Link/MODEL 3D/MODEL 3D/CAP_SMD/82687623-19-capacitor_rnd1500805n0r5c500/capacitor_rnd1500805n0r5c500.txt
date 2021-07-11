@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"Capacitance tolerance";"±0.25 pF %";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"SUPPLIER";"DISTRELEC";"";
+"Capacitance";"0.5 pF F";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"33-11062018-103818";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Multilayer Ceramic Capacitor RND1500805N0R5C500";"";
+"TraceParts.InstanceId";"33-11062018-1038186QSKHT5N7IB4ALCLIGHR30AGQ";"";
+"TraceParts.PartTitle";"SMD Multilayer Ceramic Capacitors, 0805, C0G/NP0 - Product Family 1374418";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"RND1500805N0R5C500";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Voltage";"50 VDC VDC";"";
+"TraceParts.ClassPath";"/F_DISTRELEC/DISTRELEC.010/DISTRELEC.010.010/";"";
+"Dimensions";"2 x 0.6 x 1.5 mm mm";"";
